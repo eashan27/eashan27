@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**eashan27/eashan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I am Eashan! 👋
+- 🔭 I’m pursuing Masters of Science in __Business Analytics__ 👨‍🎓 from __University of Illinois Chicago.__<br>
+- 🌱 I’m currently learning __Data Analytics, Advanced Machine Learning, Big Data Analytics for Unstructured Data and ETL.<br>
+- My skills include:
 
-Here are some ideas to get you started:
+* Programming/Frameworks: Python, R, SQL, Scala <br>
+* Data Visualization: Tableau, gglplot, PowerBI, Plotly <br>
+* Analytical Techniques: Machine Learning, Regression Analysis, Clustering, Classification, Predictive modeling , EDA, Natural language processing <br>
+* Cloud: AWS , Microsoft Azure<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about: __Data Analytics
+- 📫 How to reach me:  __Linkedin__: https://www.linkedin.com/in/eashanarora27/ or email me at __eashanarora11@gmail.com.__
 -->
+
+

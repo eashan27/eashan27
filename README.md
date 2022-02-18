@@ -12,6 +12,6 @@ My skills include:
 
 - 💬 Ask me about: __Data Analytics__
 - 📫 How to reach me:  __Linkedin__: https://www.linkedin.com/in/eashanarora27/ or email me at __eashanarora11@gmail.com.__
--->
+
 
 

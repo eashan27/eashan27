@@ -1,15 +1,16 @@
 
 ### Hi, I am Eashan! 👋
 - 🔭 I’m pursuing Masters of Science in __Business Analytics__ 👨‍🎓 from __University of Illinois Chicago.__<br>
-- 🌱 I’m currently learning __Data Analytics, Advanced Machine Learning, Big Data Analytics for Unstructured Data and ETL.<br>
-- My skills include:
+- 🌱 I’m currently learning __Data Analytics, Advanced Machine Learning, Big Data Analytics for Unstructured Data and ETL.__<br>
 
-* Programming/Frameworks: Python, R, SQL, Scala <br>
-* Data Visualization: Tableau, gglplot, PowerBI, Plotly <br>
-* Analytical Techniques: Machine Learning, Regression Analysis, Clustering, Classification, Predictive modeling , EDA, Natural language processing <br>
-* Cloud: AWS , Microsoft Azure<br>
+My skills include:
 
-- 💬 Ask me about: __Data Analytics
+* Programming/Frameworks: __Python, R, SQL, Scala__ <br>
+* Data Visualization: __Tableau, gglplot, PowerBI, Plotly__ <br>
+* Analytical Techniques: __Machine Learning, Regression Analysis, Clustering, Classification, Predictive modeling , EDA, Natural language processing__ <br>
+* Cloud: __AWS , Microsoft Azure__<br>
+
+- 💬 Ask me about: __Data Analytics__
 - 📫 How to reach me:  __Linkedin__: https://www.linkedin.com/in/eashanarora27/ or email me at __eashanarora11@gmail.com.__
 -->
 

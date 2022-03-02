@@ -5,7 +5,7 @@
 
 My skills include:
 
-* Programming/Frameworks: __Python, R, SQL, Spark <br>
+* Programming/Frameworks: __Python, R, SQL, Spark__ <br>
 * Data Visualization: __Tableau, gglplot, PowerBI, Plotly__ <br>
 * Analytical Techniques: __Machine Learning, Regression Analysis, Clustering, Classification, Predictive modeling , EDA, NLP__ <br>
 * Cloud: __AWS , Microsoft Azure__<br>
